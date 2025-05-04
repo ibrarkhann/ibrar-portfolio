@@ -8,8 +8,8 @@ This is my personal GitHub Pages portfolio showcasing my skills, certifications,
 - GitHub Pages
 
 ## 📡 Live Site
-👉 [View Live Portfolio](https://<your-github-username>.github.io/ibrar-devops-portfolio)
+👉 [View Live Portfolio](https://ibrarkhann.github.io/ibrar-portfolio/)
 
 ## 📬 Contact
-- Email: ibrar@example.com
-- GitHub: [@ibrarkhan-dev](https://github.com/ibrarkhan-dev)
+- Email: ibrarjalal15@gmail.com
+- WhatsApp: +923015802403
